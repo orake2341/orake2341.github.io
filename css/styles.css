@@ -1350,11 +1350,13 @@ a:hover.back-to-top {
   width: 100%;
   height: 400px;
   position: relative;
+  overflow: hidden;
 }
 .swiper-container2 {
   width: 100%;
   height: 400px;
   position: relative;
+  overflow: hidden;
 }
 .swiper-slide {
   display: flex;
